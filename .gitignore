@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+tfplan
+*.tfplan
+*.pem
+*.key
+terraform-provider-*
